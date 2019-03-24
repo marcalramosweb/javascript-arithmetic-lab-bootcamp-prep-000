@@ -38,7 +38,7 @@ function divide( a, b){
    return n - 1
  }
  
- function makeint(n){
+ function makeInt(n){
    return parseInt(n)
  }
  
