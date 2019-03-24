@@ -29,7 +29,7 @@ function divide( a, b){
  inc(10)
  
  function inc(n){
-   return n - 1
+   return n + 1
  }
  
  
