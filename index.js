@@ -42,7 +42,7 @@ function divide( a, b){
    return parseInt(n)
  }
  
- makeInt(10)
+
  
  function preserveDecimal(n){
    return parseFloat(n)
