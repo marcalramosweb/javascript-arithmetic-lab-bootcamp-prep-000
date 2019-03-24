@@ -33,3 +33,9 @@ function divide( a, b){
  }
  
  dec(10)
+ 
+  function in(n){
+   return n - 1
+ }
+ 
+ dec(10)
