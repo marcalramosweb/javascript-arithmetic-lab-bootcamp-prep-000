@@ -34,7 +34,7 @@ function divide( a, b){
  
  
  
-  function in(n){
+  function dec(n){
    return n - 1
  }
  
