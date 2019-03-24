@@ -27,3 +27,9 @@ function divide( a, b){
  }
  
  inc(10)
+ 
+ function dec(n){
+   return n - 1
+ }
+ 
+ dec(10)
