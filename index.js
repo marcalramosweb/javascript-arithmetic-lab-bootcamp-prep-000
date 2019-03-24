@@ -42,3 +42,7 @@ function divide( a, b){
    return parseInt(n)
  }
  
+ function preserveDecimal(n){
+   return parseFloat(n)
+ }
+ 
