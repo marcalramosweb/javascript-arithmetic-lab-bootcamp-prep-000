@@ -22,7 +22,7 @@ function divide( a, b){
  divide(8,5)
  
  function inc(n){
-   var inc
+  
    return n + 1
  }
  
