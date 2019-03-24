@@ -46,5 +46,4 @@ function divide( a, b){
    return parseFloat(n)
  }
  
- function
  
